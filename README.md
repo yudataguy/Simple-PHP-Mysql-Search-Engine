@@ -8,3 +8,7 @@ This project's mysql credential is in plaintext. Please do not deploy such file 
 
 There will be an updated version with better security measures. 
 Threat this code as a proof-of-concept only. 
+
+**License:**
+
+[MIT](LICENSE)
