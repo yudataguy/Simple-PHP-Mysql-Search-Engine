@@ -11,4 +11,4 @@ Threat this code as a proof-of-concept only.
 
 **License:**
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
